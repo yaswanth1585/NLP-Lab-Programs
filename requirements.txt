@@ -1,0 +1,8 @@
+beautifulsoup4
+nltk
+pandas
+matplotlib
+scikit-learn
+wordcloud
+gensim
+tensorflow
